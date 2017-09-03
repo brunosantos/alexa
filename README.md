@@ -1,4 +1,4 @@
-# alexa skill
+# alexa thermometer skill
 reads temperature and humidity data from firebase db and plays them in alexa.
 
 Requirements:
